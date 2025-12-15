@@ -1,4 +1,4 @@
-# 🧤 Mănușă inteligentă
+# 🧤 Mănușă smart pentru orientare și monitorizare ambientală
 
 Proiectul **„Mănușă inteligentă”** este realizat cu ajutorul unei plăci **Arduino Nano** și a mai multor senzori, având rolul de a măsura **distanța față de obiecte** și **temperatura mediului ambiant**, afișând informațiile pe un **display LCD 16x2**.
 
